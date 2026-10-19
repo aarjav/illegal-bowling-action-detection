@@ -1,0 +1,3 @@
+*.pdf
+.paper-*.download
+__pycache__/

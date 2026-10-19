@@ -1,0 +1,26 @@
+{
+  "title": "Deep Learning Based Illegal Bowling Action Detection",
+  "authors": [
+    "Debopom Sutradhar",
+    "Niful Islam",
+    "Sudipto Mondal",
+    "Tasmima Hossain Jamim",
+    "Jubaer Muhammad Shufol",
+    "Swakkhar Shatabda"
+  ],
+  "arxiv_id": "2610.07223",
+  "version": "v1",
+  "submitted": "2026-10-05",
+  "doi": "10.48550/arXiv.2610.07223",
+  "abstract_url": "https://arxiv.org/abs/2610.07223",
+  "html_url": "https://arxiv.org/html/2610.07223v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.07223v1",
+  "local_filename": "2610.07223v1.pdf",
+  "pdf_bytes": 50181621,
+  "pdf_sha256": "01054e110a5b5643d02d5cf68943d7e36023704ad4871349e4f9689f184ab6c7",
+  "paper_license": "arXiv.org perpetual, non-exclusive license",
+  "license_information_url": "https://info.arxiv.org/help/license/index.html",
+  "upstream_repository": "https://github.com/Debopom/Illegal-Bowling-Action-Detection",
+  "reviewed_code_commit": "943ec5180370bcf2e7b04fbda710994b0db08667",
+  "verified_on": "2026-10-19"
+}

@@ -1,5 +1,14 @@
 # 🚀 Deep Learning-Based Illegal Bowling Action Detection
 
+## Research paper
+
+See [the paper reference](papers/README.md) for the arXiv paper, citation,
+source metadata, and a command to download a verified local PDF:
+
+```bash
+python3 papers/fetch_paper.py
+```
+
 ## 📌 Overview
 
 This repository provides a deep learning-based solution for detecting illegal bowling actions in cricket using computer vision techniques. The system identifies illegal bowling actions by analyzing the arm's angle difference between two key frames in a bowler's delivery: **the shoulder frame** and **the release frame**. If the angle difference exceeds a predefined threshold (15 degrees), the action is flagged as illegal.
